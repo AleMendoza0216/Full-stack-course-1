@@ -1,0 +1,29 @@
+
+
+/* Using css */
+.header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .navbar {
+    width: 400px;
+    border: 2px solid #20686c;
+    display: flex;
+    justify-content: space-between;
+  }
+  main {
+    background-color: #fe982a;
+    width: 600px;
+    float: left;
+  }
+  .aside {
+    background-color: y#6bc4a6;
+    width: 300px;
+    float: right;
+  }
+  .footer {
+    background-color: #bc4f07;
+  }
+  .clearfix {
+    clear: both;
+  }
